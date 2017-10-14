@@ -41,13 +41,6 @@ htmlcov/
 nosetests.xml
 coverage.xml
 
-# Translations
-*.mo
-*.pot
-
-# Django stuff:
-*.log
-
 # Sphinx documentation
 docs/_build/
 
