@@ -8,7 +8,7 @@ Features: Tail function is working, you can write in same file opening it into m
 Drawback: You can only write through command line, writing in file using any editor will not work.
 
 Instrucation: 
-			1: Run `python servertest.py` \n
-			2: Run `python client.py`
+			1: Run `python servertest.py`.
+			2: Run `python client.py`.
 
 Output: `Tail` effect will be seen in `servertest.py`
